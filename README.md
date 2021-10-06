@@ -33,13 +33,3 @@ I’m 22 age, currently working as Analyst at @Loggi and study college at Instit
   <a href="https://github.com/notoriousz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=notoriousz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
-  
-  
-### Contact-me
- 
- <div>
-    <img  href="https://www.linkedin.com/in/matheus-serafim/" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
- </div>
-  
-  
-  
