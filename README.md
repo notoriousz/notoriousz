@@ -1,6 +1,6 @@
-### Be Welcome!! 👋
+## Be Welcome!! 👋
 
-##### My name is Matheus Serafim, but you can call me _Mah_
+#### My name is Matheus Serafim, but you can call me _Mah_
 
 #### A bit of me 👇
 I’m 22 age, currently working as Analyst at @Loggi and study college at Institute Federal São Paulo (IFSP) on course Business Administration, I learn about programming for eight months as self-taught and I wish to follow the Software Engineer Career, as hobby I like eat variety foods, play with my little dog Toshiro and travel.
@@ -14,7 +14,7 @@ I’m 22 age, currently working as Analyst at @Loggi and study college at Instit
 </div>
 
 
-### 👨‍💻 My current tools
+### 👨‍💻 My current Tools
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
