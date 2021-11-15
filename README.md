@@ -3,7 +3,7 @@
 #### My name is Matheus Serafim, but you can call me _Mah_
 
 #### A bit of me 👇
-I’m 22 years old, currently working as Analyst at @Loggi, and I study Business Administration at São Paulo Federal Institute (IFSP). However, I've been learning programming by myself for a year, and I wish to follow the Software Engineer Career. As a hobby, I like to eat a variety of foods, play with my little dog Toshiro and travel.
+I’m 22 years old, currently working as Analyst at @Loggi, and I study Business Administration at São Paulo Federal Institute (IFSP). However, I've been learning programming by myself for a year, and I wish to follow the Software Engineer Career. As a hobby, I like to eat a variety of foods, play with my little dog and travel.
 
 <div style="display: inline_block"><br>
   <h3 align="left" alt="Math-Python" height="30" width="40"> ❤️ My current Languages </h3>
