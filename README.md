@@ -9,8 +9,3 @@ I’m 22 years old, currently working as Software Engineer at @Loggi, and I stud
    <a href="https://github.com/notoriousz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notoriousz&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<br>
-<div align="left">
-  <a href="https://github.com/notoriousz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=notoriousz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
