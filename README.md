@@ -3,13 +3,16 @@
 #### My name is Matheus Serafim, but you can call me _Math_
 
 #### A bit of me 👇
-I’m 23 years old, currently working as Software Engineer at @Loggi. As a hobby, I like to eat a variety of foods and travel.
+I’m 23 years old, currently working as Software Engineer at @Loggi. As a hobby, I like to eat a variety of foods, play games and travel.
 
-<div align="left">
-   <a href="https://github.com/notoriousz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notoriousz&layout=compact&langs_count=7&theme=dark"/>
-</div>
+---
 
-</br>
+### Contact
 
-<img href="https://mail.google.com/mail/u/1/#inbox?compose=DmwnWrRsnxFXLMfrGxsxDkRRlvxtFGzBHHKWRQrTSsvGdCFFZwhVtxfJKHcQgQCHNppLRNmKzpqG"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCKHRtlbnglpWBkjpVNLGwMwQPQvgRKBHKqcbsfQqGvvshQgWfLkKBrCcFxWTTVqjMMnRQxq">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/matheus-serafim/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
