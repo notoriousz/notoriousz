@@ -7,8 +7,6 @@ I’m 23 years old, currently working as Software Engineer at @Loggi. As a hobby
 
 ---
 
-### Contact
-
 <a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCKHRtlbnglpWBkjpVNLGwMwQPQvgRKBHKqcbsfQqGvvshQgWfLkKBrCcFxWTTVqjMMnRQxq">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
