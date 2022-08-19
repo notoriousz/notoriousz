@@ -3,7 +3,7 @@
 #### My name is Matheus Serafim, but you can call me _Math_
 
 #### A bit of me 👇
-I’m 23 years old, currently working as Software Engineer at @Loggi. As a hobby, I like to eat a variety of foods, play games and travel.
+I’m 23 years old, currently working as Software Engineer. As a hobby, I like to eat a variety of foods, play games and travel.
 
 ---
 
