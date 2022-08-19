@@ -14,3 +14,7 @@ I’m 23 years old, currently working as Software Engineer. As a hobby, I like t
 <a href="https://www.linkedin.com/in/matheus-serafim/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="https://medium.com/@notoriousz">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
