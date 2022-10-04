@@ -7,20 +7,6 @@ I’m 23 years old, currently working as Software Engineer. As a hobby, I like t
 
 ---
 
-<a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCKHRtlbnglpWBkjpVNLGwMwQPQvgRKBHKqcbsfQqGvvshQgWfLkKBrCcFxWTTVqjMMnRQxq" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/matheus-serafim/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://medium.com/@notoriousz" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-
----
-
 #### Engineering Stack
 
 <a>
@@ -35,6 +21,22 @@ I’m 23 years old, currently working as Software Engineer. As a hobby, I like t
 </a>
 <a>
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</a>
+
+---
+
+#### Contact me
+
+<a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCKHRtlbnglpWBkjpVNLGwMwQPQvgRKBHKqcbsfQqGvvshQgWfLkKBrCcFxWTTVqjMMnRQxq" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/matheus-serafim/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@notoriousz" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
 
