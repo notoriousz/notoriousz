@@ -35,8 +35,4 @@ I’m 23 years old, currently working as Software Engineer at @Itaú. As a hobby
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://medium.com/@notoriousz" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-
 
