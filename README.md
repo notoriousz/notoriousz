@@ -1,6 +1,6 @@
 ## Be Welcome!!! 👋
 
-#### My name is Matheus Serafim, but you can call me _Math_
+#### My name is Matheus Serafim, but you can call me _Math_ :)
 
 #### A bit of me 👇
 I’m 24 years old, currently working as Software Engineer at @Itaú, previously at @Loggi. As a hobby, I like  play games and travel.
